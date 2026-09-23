@@ -197,4 +197,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
-{"id":76200759,"author":{"login":"nschloe","id":181628,"node_id":"MDQ6VXNlcjE4MTYyOA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGHAZhs4Eirs3","tag_name":"v0.2.8","target_commitish":"main","name":"v0.2.8","draft":false,"immutable":false,"prerelease":false,"created_at":"2022-09-03T10:08:19Z","updated_at":"2022-09-03T10:08:30Z","published_at":"2022-09-03T10:08:30Z","assets":[],"body":null}
